@@ -2,7 +2,7 @@
 # Maybe Innocent maybe not
 =======
 
-#NOT Traitor
+#NOT Traitor, definitely
 =======
 # Innocent
 
